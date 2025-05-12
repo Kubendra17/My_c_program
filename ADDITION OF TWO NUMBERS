@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+int age;
+char name;
+float weaight;
+printf("Enter your name, age and weight:\n");
+scanf("%d",&age);
+scanf("%c",&name); 
+scanf("%f",&weight);
+printf("\nname:\tage:\tweight:\n");
+scanf("%c\t%d\t%f\n ,&age,&nqmae,&weight");
+}
+
